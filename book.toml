@@ -7,3 +7,4 @@ title = "Taco Book"
 
 [output.html]
 git-repository-url = "https://github.com/tacogram/taco-book"
+site-url = "/taco-book/"
